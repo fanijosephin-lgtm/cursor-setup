@@ -7,7 +7,7 @@ This repository was created as part of the setup assigment.
 
 ## Tools Installed
 
-The following tools were Installed:
+The following tools were installed:
 
 - Cursor IDE
 - Claude Code extension
