@@ -17,6 +17,7 @@ The following tools were installed:
 ## Steps Complated
 '
 I complated the following steps:
+
 1. Installed Cursor IDE
 2. Logged into Cursor
 3. Installed the Claude Code extension
