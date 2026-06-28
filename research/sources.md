@@ -12,3 +12,11 @@ This research aims to understand how leading SEO practitioners leverage artifici
 
 
 # Selected Experts
+
+Profiles and official research sources
+
+1. 10 expert
+2. Professional Summary
+3.  Why Selected
+4. Primary Expertise
+5. Official Resources
