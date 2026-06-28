@@ -31,3 +31,22 @@ I complated the following steps:
 ## Issues Encountered
 
 No major issues were encountered during the setup process.
+
+
+## Research Project
+
+### Topic
+
+AI-powered SEO Content Production
+
+### Research Objective
+
+This project aims to research how leading SEO practitioners use artificial intelligence to improve content production, optimization, semantic search, and scalable SEO workflows for modern B2B SaaS companies.
+
+### Repository Structure
+
+research/
+   sources.md
+   linkedin-posts/
+   youtube-transcripts/
+   other/
